@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ba3e2f9-8aa4-448c-a4b9-6464295f9a29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="458" />
+  </component>
+  <component name="ProjectId" id="1ZfjJ4qBjtuO4LBwzIrD0tLQDVB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="JUnit.TetrisGridTest">
+    <configuration name="CharGridTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1CodeCamp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CharGridTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCodeTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="hw1CodeCamp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringCodeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCodeTest.testRun2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1CodeCamp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringCodeTest" />
+      <option name="METHOD_NAME" value="testRun2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TetrisGridTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw1CodeCamp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TetrisGridTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TetrisGridTest" />
+        <item itemvalue="JUnit.CharGridTest" />
+        <item itemvalue="JUnit.StringCodeTest.testRun2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ba3e2f9-8aa4-448c-a4b9-6464295f9a29" name="Default Changelist" comment="" />
+      <created>1585236967266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585236967266</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="472" y="278" width="1084" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585253188795">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="472" y="278" width="1084" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585253188795" />
+    <state x="100" y="127" width="1720" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585242616425">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585242616425" />
+    <state width="1874" height="238" key="GridCell.Tab.0.bottom" timestamp="1585328927699">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1585299342012">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.0.bottom.inPresentationMode/0.27.1920.1053@0.27.1920.1053" timestamp="1585299342012" />
+    <state width="1874" height="238" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585328927699" />
+    <state width="1874" height="238" key="GridCell.Tab.0.center" timestamp="1585328927698">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1585299342011">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.0.center.inPresentationMode/0.27.1920.1053@0.27.1920.1053" timestamp="1585299342011" />
+    <state width="1874" height="238" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585328927698" />
+    <state width="1874" height="238" key="GridCell.Tab.0.left" timestamp="1585328927698">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1585299342011">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.0.left.inPresentationMode/0.27.1920.1053@0.27.1920.1053" timestamp="1585299342011" />
+    <state width="1874" height="238" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585328927698" />
+    <state width="1874" height="238" key="GridCell.Tab.0.right" timestamp="1585328927698">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1585299342012">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.0.right.inPresentationMode/0.27.1920.1053@0.27.1920.1053" timestamp="1585299342012" />
+    <state width="1874" height="238" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585328927698" />
+    <state width="1874" height="339" key="GridCell.Tab.1.bottom" timestamp="1585299156692">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585299156692" />
+    <state width="1874" height="339" key="GridCell.Tab.1.center" timestamp="1585299156692">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585299156692" />
+    <state width="1874" height="339" key="GridCell.Tab.1.left" timestamp="1585299156691">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585299156691" />
+    <state width="1874" height="339" key="GridCell.Tab.1.right" timestamp="1585299156692">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="339" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585299156692" />
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585468864223">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585468864223" />
+    <state x="632" y="449" width="646" height="217" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585238083667">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="632" y="449" width="646" height="217" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1920.1053@0.27.1920.1053" timestamp="1585238083666" />
+    <state x="624" y="251" key="run.anything.popup" timestamp="1585237865540">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="251" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1585237865540" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1585242208767">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1585242208767" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$CharGridTest.ic" NAME="CharGridTest Coverage Results" MODIFIED="1585322630232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$StringCodeTest.ic" NAME="StringCodeTest Coverage Results" MODIFIED="1585250149744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw1CodeCamp$TetrisGridTest.ic" NAME="TetrisGridTest Coverage Results" MODIFIED="1585328927629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
